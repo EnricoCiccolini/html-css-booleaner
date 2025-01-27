@@ -2,14 +2,13 @@
 .banner{
     background-color: cornflowerblue;
     background-image: url(pattern.png);
-    background-repeat x: ;
-height: 120px;;
+    height: 120px;
 
     
 }
 .titolo
-{font size: 200px;}
+    {font-size:100px}
 
-#blue{
+.blue{
     color: aqua;
 }
