@@ -1,3 +1,6 @@
+.mt-100{
+    margin-top: 100px;
+}
 
 .banner{
     background-color: rgb(103, 156, 255);
@@ -6,9 +9,42 @@
 
     
 }
-.titolo
-    {font-size:100px}
 
+.text{
+    background-color: yellow;
+}
+.titolo
+    {font-size:100px;
+    margin: 0;}
+
+.tex-blue{
+    color: blue;
+}
 .blue{
-    color: aqua;
+    color: rgb(255, 255, 255);
+    background-color: rgb(69, 134, 255);
+}
+.celeste{
+    background-color: aquamarine;
+}
+
+.azzurro{
+    background-color: rgb(170, 239, 252);
+}
+.grey{
+    color: #939393;
+}
+
+.footer-immage-one {
+    height: 200px;
+    color: white;
+    background-image: url(/img/monitor.jpg);
+    background-repeat: no-repeat;
+    margin-bottom: 20px;
+}
+.footer-immage-two {
+    height: 300px;
+    color: white;
+    background-image: url(/img/graph.jpg);
+    background-repeat: no-repeat;
 }
